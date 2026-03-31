@@ -11,5 +11,7 @@
 - Streamlit
 
 ## How to Run
-pip install -r requirements.txt
-streamlit run app.py
+ ```bash
+   pip install -r requirements.txt
+   streamlit run app.py
+   ```

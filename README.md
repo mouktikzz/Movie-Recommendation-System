@@ -23,18 +23,6 @@ A personalized movie recommendation system built using **Python, Streamlit, and 
 
 ---
 
-## 📂 Project Structure
-
-
-movie-recommendation/
-│
-├── app.py # Streamlit UI
-├── model.py # Data loading, matrix creation, model training
-├── requirements.txt
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository

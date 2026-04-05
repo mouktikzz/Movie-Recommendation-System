@@ -39,7 +39,7 @@ movie-recommendation/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone [https://github.com/your-username/movie-recommendation.git](https://github.com/mouktikzz/Movie-Recommendation-System/)
+git clone https://github.com/your-username/movie-recommendation.git
 2️⃣ Create virtual environment (optional)
 python -m venv .venv
 .venv\Scripts\activate   # Windows
